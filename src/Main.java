@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        SellerOne sellerCarrotOne = new SellerOne();
-        SellerOne sellerCarrotTwo = new SellerOne();
+        SellerCarrot sellerCarrotOne = new SellerCarrot();
+        SellerCarrot sellerCarrotTwo = new SellerCarrot();
         sellerCarrotOne.setName("Martin Dlouhý");
         sellerCarrotOne.setAddress("Chomutovská 1256 Kadaň");
         sellerCarrotTwo.setAddress("Golovinova 1254 Kadaň");
